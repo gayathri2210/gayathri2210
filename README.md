@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Data science projects<br>👯 I’m looking to collaborate on ML based projects<br>🤝 I’m looking for help with front end dev<br>🌱 I’m currently learning how to train models<br>💬 Ask me about anything :)<br>⚡ Fun fact None :D
 
 
 # 💻 Tech Stack:
